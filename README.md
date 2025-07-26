@@ -25,18 +25,7 @@ I’m a results-driven DevOps Engineer with 8+ years of IT experience (5+ years 
 
 ---
 
-### 📌 Notable Projects
-- 🔧 [k8s-deploy-pipeline](https://github.com/nhnaveen/k8s-deploy-pipeline) – A Jenkins-based CI/CD pipeline to deploy Dockerized apps on Kubernetes
-- 📦 [aws-terraform-infra](https://github.com/nhnaveen/aws-terraform-infra) – Infrastructure provisioning on AWS using Terraform
-- 🧪 [jenkins-pipeline-lab](https://github.com/nhnaveen/jenkins-pipeline-lab) – Declarative pipelines with Groovy scripts
-
-*(Make sure these projects exist or I can help you create them)*
-
----
-
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/naveen-kumar-n-h)
 - 📧 nhnaveen1994@gmail.com
 
----
-⭐️ *Feel free to check out my repositories or reach out for collaboration or DevOps discussions!*
